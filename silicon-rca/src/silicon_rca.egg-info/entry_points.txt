@@ -1,0 +1,2 @@
+[console_scripts]
+silicon-rca = silicon_rca.cli:main

@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: silicon-rca
+Version: 0.1.0
+Summary: Post-silicon failure analytics and root-cause framework
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: rich
+Requires-Dist: typer
+Requires-Dist: pydantic
+Requires-Dist: tabulate
