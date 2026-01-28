@@ -140,6 +140,5 @@ You can confidently use this project to demonstrate:
 - **Subsystem‑level hardware reasoning** – reasoning about CPU, memory/DRAM, PCIe, networking, and thermal/power domains from counters and events.  
 - **Post‑silicon validation workflows** – bring‑up/debug‑style thinking plus explicit "failure signature → reproduce → isolate → mitigate → regression" loops.
 
-For interviews, you can walk through ingestion, detection, RCA, and report‑generation paths in the code to tie each of these skills to a concrete implementation.
 
 ***
